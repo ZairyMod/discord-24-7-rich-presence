@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nexoscreation/discord-24-7-rich-presence.git"
+    "url": "git+https://github.com/nexoslabs/discord-24-7-rich-presence.git"
   },
   "keywords": [
     "discord",
@@ -18,9 +18,9 @@
   "author": "nexoscreator",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nexoscreation/discord-24-7-rich-presence/issues"
+    "url": "https://github.com/nexoslabs/discord-24-7-rich-presence/issues"
   },
-  "homepage": "https://github.com/nexoscreation/discord-24-7-rich-presence#readme",
+  "homepage": "https://github.com/nexoslabs/discord-24-7-rich-presence#readme",
   "dependencies": {
     "discord.js-selfbot-v13": "^3.6.1",
     "dotenv": "^16.5.0",

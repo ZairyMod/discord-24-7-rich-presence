@@ -21,7 +21,7 @@
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/nexoscreation/discord-24-7-rich-presence.git
+git clone https://github.com/nexoslabs/discord-24-7-rich-presence.git
 cd discord-24-7-rich-presence
 ```
 
@@ -111,9 +111,13 @@ This project is licensed under **The UnLicense** See the [LICENSE](LICENSE) file
 ## 📬 Contact & Community
 
 💬 Join us on **Discord**: [Click Here](https://discord.gg/H7pVc9aUK2)  
-🐦 **Follow on Twitter**: [@nexoscreation](https://twitter.com/nexoscreation)  
+🐦 **Follow on Twitter**: [@nexoslabs](https://twitter.com/nexoslabs)  
 📧 **Email**: [contact@nexoscreation.tech](mailto:contact@nexoscreation.tech)
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/nexoscreation">@nexoscreation</a>
+  Made with ❤️ by the <a href="https://github.com/nexoslabs">@nexoslabs</a> Team
+</p>
+
+<p align="center">
+  <a href="https://github.com/nexoslabs/discord-24-7-rich-presence/stargazers">⭐ Star us on GitHub!</a>
 </p>
