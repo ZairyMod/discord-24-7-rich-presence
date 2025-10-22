@@ -14,15 +14,15 @@ smallImageKey: "https://cdn.discordapp.com/attachments/1430509792497242232/14306
 smallImageText: "PlayStation 5"
 
 # URL (optional, works only with certain types)
-url: ""
+url: "https://youtube.com/"
 
 # Buttons (optional)
 buttons:
-  - name: ""
-    url: ""
-  - name: ""
-    url: ""
+  - name: "Youtube"
+    url: "https://youtube.com/"
+  - name: "Youtube"
+    url: "Https://youtube.com/"
 
 # Custom status
-custom_status: ""
+custom_status: "Ea FC 26"
 custom_emoji: "🔥"
