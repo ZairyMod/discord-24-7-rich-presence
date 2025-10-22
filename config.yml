@@ -1,28 +1,28 @@
-application_id: "1311204057490259979"
+application_id: "1354631077045473324"
 
 # Activity type: 0 = Playing, 2 = Listening, 3 = Watching
-type: 3
+type: 0
 
-name: "Youtube"
-details: "Watching Nexos Creator"
-state: "Subscribe"
+name: "PlayStation 5"
+details: "Ea Sports FC 26"
+state: "Manager Career"
 
 # Images
-largeImageKey: "1377844502521446490"
-largeImageText: "Watching Nexos Creator"
-smallImageKey: "1377845999464087653"
-smallImageText: "Subscribe"
+largeImageKey: "https://cdn.discordapp.com/attachments/1430509792497242232/1430682908766502932/elden-ring_tf87.1200.jpg?ex=68faaaca&is=68f9594a&hm=94dd18ef943598d58121e64d92c5356a41b5afd38e983b0bea6c42966e7c3e30&"
+largeImageText: "Ea Sports FC 26"
+smallImageKey: "https://cdn.discordapp.com/attachments/1430509792497242232/1430682912864473278/Dwew7IIW0AAPtTv.jpg?ex=68faaacb&is=68f9594b&hm=20e84eb37da73c4ffd5cf39321fc3e1ca64731ed27ed3ec71bfbe51223d1a706&"
+smallImageText: "PlayStation 5"
 
 # URL (optional, works only with certain types)
-url: "https://www.youtube.com/@nexoscreator"
+url: ""
 
 # Buttons (optional)
 buttons:
-  - name: "Visit Website"
-    url: "https://www.nexoscreator.tech"
-  - name: "GitHub Repo"
-    url: "https://github.com/"
+  - name: ""
+    url: ""
+  - name: ""
+    url: ""
 
 # Custom status
-custom_status: "Watching tutorials"
+custom_status: ""
 custom_emoji: "🔥"
